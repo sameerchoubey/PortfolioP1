@@ -1,0 +1,34 @@
+.center{
+    display: flex;
+    justify-content: center; /* Center along main axis */
+    align-items: center; /* Center along cross axis */
+}
+
+body {
+    font-family: Impact, Charcoal, sans-serif;
+    /* background-color: #000000; */
+}
+
+.projects{
+    display: flex;
+    justify-content: flex-start;
+    margin-bottom: 3%;
+}
+
+.header{
+    margin-left: 2%;
+}
+
+.profile{
+    width: 15%;
+    height: 15%;
+    border-radius: 50%;
+}
+
+.skills{
+    width: 5%;
+    height: 5%;
+    margin-left: 1.5%;
+}
+
+/* Full Stack Developer with a demonstrated history of working in the computer software industry. Skilled in Python(Django and Flask), C/C++, and JavaScript(NodeJS). Strong engineering professional with a Bachelor of Technology from National Institute of Technology, Sikkim. I love solving real-world problems with the help of technology.  */
